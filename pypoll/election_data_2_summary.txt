@@ -1,0 +1,10 @@
+Election Results
+------------------
+Total Votes:  3521001
+------------------
+Cordin:  3521001 100.0 %
+Seth:  0 0.0 %
+Torres:  0 0.0 %
+Vestal:  0 0.0 %
+------------------
+Winner:  cordin
